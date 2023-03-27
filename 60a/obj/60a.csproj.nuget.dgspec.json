@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/annanalimova/Задачи/60a/60a.csproj": {}
+  },
+  "projects": {
+    "/Users/annanalimova/Задачи/60a/60a.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/annanalimova/Задачи/60a/60a.csproj",
+        "projectName": "60a",
+        "projectPath": "/Users/annanalimova/Задачи/60a/60a.csproj",
+        "packagesPath": "/Users/annanalimova/.nuget/packages/",
+        "outputPath": "/Users/annanalimova/Задачи/60a/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/annanalimova/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
