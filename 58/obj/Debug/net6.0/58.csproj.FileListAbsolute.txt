@@ -1,0 +1,15 @@
+/Users/annanalimova/Задачи/58/bin/Debug/net6.0/58
+/Users/annanalimova/Задачи/58/bin/Debug/net6.0/58.deps.json
+/Users/annanalimova/Задачи/58/bin/Debug/net6.0/58.runtimeconfig.json
+/Users/annanalimova/Задачи/58/bin/Debug/net6.0/58.dll
+/Users/annanalimova/Задачи/58/bin/Debug/net6.0/58.pdb
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/58.csproj.AssemblyReference.cache
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/58.AssemblyInfoInputs.cache
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/58.AssemblyInfo.cs
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/58.csproj.CoreCompileInputs.cache
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/58.dll
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/refint/58.dll
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/58.pdb
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/58.genruntimeconfig.cache
+/Users/annanalimova/Задачи/58/obj/Debug/net6.0/ref/58.dll
